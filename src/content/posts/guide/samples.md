@@ -1,6 +1,7 @@
 ---
 title: Examples & Guides
 published: 2024-10-01
+updated: 2025-02-23
 description: give Examples and guides in one markdown file
 image: "./cover.jpeg"
 tags: [Guide]
@@ -344,3 +345,4 @@ tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: false
 ---
+```
